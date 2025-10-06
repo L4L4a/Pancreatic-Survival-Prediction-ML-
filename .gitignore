@@ -1,0 +1,16 @@
+﻿# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# R / data science
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / others (if any)
+node_modules/
+
